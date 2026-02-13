@@ -154,7 +154,7 @@
   * [Tombwatcher](ctf/tombwatcher.md)
   * [Voleur](ctf/voleur.md)
   * [Imagery](ctf/imagery.md)
-  * [Page 1](ctf/page-1.md)
+  * [sequel](ctf/sequel.md)
   * [Sau](ctf/sau.md)
   * [Return](ctf/return.md)
   * [Administrator](ctf/administrator.md)
