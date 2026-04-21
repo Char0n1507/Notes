@@ -177,3 +177,5 @@
   * [Agile](ctf/agile.md)
   * [Hospital](ctf/hospital.md)
   * [Blackfield](ctf/blackfield.md)
+* [Pro Labs](pro-labs/README.md)
+  * [Puppet](pro-labs/puppet.md)
