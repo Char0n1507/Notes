@@ -4,7 +4,6 @@ This section documents the vulnerabilities I've discovered, responsibly disclose
 
 ### Featured Disclosures:
 
-*   **[InvoicePlane]** Remote Code Execution via LFI & Log Poisoning (Critical)
+*   **[InvoicePlane]** Security Audit (CSRF, IDOR, Log Injection)
 *   **[PicPeak]** Admin Account Takeover via Malicious Backup Restore (Critical)
 *   **[PicPeak]** Path Traversal & ZIP Slip in Archive Restore (Moderate)
-*   **[InvoicePlane]** Multiple Stored XSS Vulnerabilities (Moderate)
