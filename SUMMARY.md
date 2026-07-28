@@ -143,6 +143,8 @@
     * [172.16.8.20 - ACADEMY-AEN-DEV01.INLANEFREIGHT.LOCAL](others/attacking-enterprise-networks/172.16.8.20-academy-aen-dev01.inlanefreight.local.md)
     * [172.16.8.50 - ACADEMY-AEN-MS01.INLANEFREIGHT.LOCAL](others/attacking-enterprise-networks/172.16.8.50-academy-aen-ms01.inlanefreight.local.md)
   * [PowerShell Filters](others/powershell-filters.md)
+* [🚨 Security Advisories & CVEs](security-advisories/README.md)
+  * [InvoicePlane: RCE via LFI & Log Poisoning](security-advisories/invoiceplane-rce-lfi-log-poisoning.md)
 * [🏴‍☠️CTF](ctf/README.md)
   * [Certified](ctf/certified.md)
   * [Fluffy](ctf/fluffy.md)
