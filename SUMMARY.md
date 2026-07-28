@@ -144,8 +144,6 @@
     * [172.16.8.50 - ACADEMY-AEN-MS01.INLANEFREIGHT.LOCAL](others/attacking-enterprise-networks/172.16.8.50-academy-aen-ms01.inlanefreight.local.md)
   * [PowerShell Filters](others/powershell-filters.md)
 * [🚨 Security Advisories & CVEs](security-advisories/README.md)
-  * [InvoicePlane: RCE via LFI & Log Poisoning](security-advisories/invoiceplane-rce-lfi-log-poisoning.md)
-  * [InvoicePlane: Multiple Stored XSS](security-advisories/invoiceplane-multiple-stored-xss.md)
   * [InvoicePlane: Security Audit (5 Zero-Days)](security-advisories/invoiceplane-comprehensive-audit.md)
   * [PicPeak: Admin Account Takeover via Malicious Backup](security-advisories/picpeak-admin-account-takeover.md)
   * [PicPeak: ZIP Slip in Archive Restore](security-advisories/picpeak-zip-slip.md)
