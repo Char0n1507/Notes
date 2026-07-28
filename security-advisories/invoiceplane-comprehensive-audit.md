@@ -24,7 +24,7 @@ Because the `Base_Controller` only blocked GET requests if the URL contained the
 ### The Exploit
 An attacker could embed a simple, invisible image tag in an email or forum post targeted at the administrator:
 ```html
-<img src="http://target.invoiceplane.com/invoices/recurring/stop/1" width="0" height="0">
+<img src="http://target.invoiceplane.com/invoices/recurring/stop/1" width="0" height="0" />
 ```
 When the admin viewed the image, the browser executed the GET request. The recurring invoice was silently stopped, potentially costing the business months of lost revenue before being noticed.
 
